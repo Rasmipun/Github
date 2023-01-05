@@ -31,7 +31,7 @@ const Header = () =>{
     return(
         <StyledHeader>
             <h1>
-                devfinder
+                devhunter
             </h1>
             <StyledToggler>
             <StyledThemeText>Dark Mode</StyledThemeText>
